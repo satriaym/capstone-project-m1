@@ -17,7 +17,7 @@ Berikut deskripsi kolom:
 # Fitur Utama
 
 1. **Login Sistem**
-   - Pengguna diharuskan login sebelum mengakses aplikasi.
+   - User diharuskan login sebelum mengakses aplikasi.
    - Terdapat dua peran yang tersedia:
      - **Administrator**: `adm` / `adm123`
      - **Operator**: `op` / `op123`
@@ -33,18 +33,18 @@ Berikut deskripsi kolom:
    - **Filtering** (penyaringan data) tersedia berdasarkan kolom tertentu untuk memudahkan pencarian data yang spesifik.
 
 4. **Mengedit/Update Data Produksi**
-   - Administrator dapat mengedit data pada batch tertentu, seperti Batch No., ID Operator, Tanggal Pengerjaan, dll.
+   - **Administrator** dapat mengedit data pada batch tertentu, seperti Batch No., ID Operator, Tanggal Pengerjaan, dll.
    - Validasi input dilakukan untuk memastikan format data yang benar, terutama pada tanggal dengan format (`DDMMYYY`) dan pilihan Quality (`GOOD`/`NOT GOOD`).
 
 5. **Menambah Input Produksi**
-   - Pengguna dapat menambahkan data baru, dengan validasi input pada format tanggal dan pilihan Quality yang valid.
+   - User dapat menambahkan data baru, dengan validasi input pada format tanggal dan pilihan Quality yang valid.
 
 6. **Menghapus Data Produksi**
-   - Administrator dapat menghapus data berdasarkan Batch No. tertentu.
+   - **Administrator** dapat menghapus data berdasarkan Batch No. tertentu.
 
 7. **Logout dan Keluar Program**
-   - Pengguna dapat logout dari sistem dan kembali ke menu login.
-   - Pengguna juga dapat keluar dari aplikasi sepenuhnya.
+   - User dapat logout dari sistem dan kembali ke menu login.
+   - User juga dapat keluar dari aplikasi sepenuhnya.
 
 # Hak dan Wewenang User
 
