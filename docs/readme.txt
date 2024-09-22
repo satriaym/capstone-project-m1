@@ -1,3 +1,4 @@
 menu login
-![Menu Login](https://github.com/satriaym/capstone-project-m1/blob/main/docs/1.%20Menu%20Login.png)
+![Menu Login](https://raw.githubusercontent.com/satriaym/capstone-project-m1/main/docs/1.%20Menu%20Login.png)
+
 
